@@ -43,17 +43,9 @@ The project leveraged SQL, Power BI, and DAX to analyze the provided datasets. T
 
 ## SQL Implementation
 
-```sql
--- SQL code used for data cleaning and transformation
--- (Include your relevant SQL queries here)
-```
 
 ## DAX Measures
 
-```dax
--- DAX measures used in Power BI
--- (Include your DAX measures here with descriptions)
-```
 
 ## Power BI Dashboards
 
