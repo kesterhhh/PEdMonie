@@ -34,7 +34,7 @@ This research is based on secondary data sources such as company websites, indus
 - [Target Audience Dataset](Data/TargetAudience.csv)
 - Company websites
 - Industry reports
-- Customer feedback platforms
+- Customer feedback.
 
 ## Market Analysis 
 
