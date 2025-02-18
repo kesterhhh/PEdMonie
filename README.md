@@ -31,8 +31,8 @@ PEDMONIE aims to solve these gaps with a more seamless, cost-effective, and AI-d
 This research is based on secondary data sources such as company websites, industry reports, and customer feedback.
 
 ### Data Sources
-- [Competitor Analysis Dataset](Data/competitoranalysis.csv)
-- [Target Audience Dataset](Data/targetaudience.csv)
+- [Competitor Analysis Dataset](Data/CompetitorAnalysis.csv)
+- [Target Audience Dataset](Data/TargetAudience.csv)
 - Company websites
 - Industry reports
 - Customer feedback platforms
