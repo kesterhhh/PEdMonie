@@ -23,7 +23,6 @@ PEDMONIE aims to solve these gaps with a more seamless, cost-effective, and AI-d
 ### Approach Used
 - Competitor analysis through benchmarking
 - Market research using fintech industry reports
-- Analysis of customer complaints and feedback from online platforms
 - Data collection across 139 businesses and 84 distinct niches
 - Average of 1.01 pain points per business analyzed
 
