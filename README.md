@@ -3,8 +3,8 @@
 ## Project Overview
 This research report explores Nigeria's fintech landscape, analyzing key competitors such as Paystack, Flutterwave, Interswitch, Kora, Paga, and PayPal. Through comprehensive analysis of 139 businesses across 84 distinct niches, we identified major gaps in existing solutions and outlined how PEDMONIE can differentiate itself. Key findings highlight issues such as transaction failure rates, high fees, and the lack of smart payment routing.
 
-![Competitor Analysis Dashboard](CompetitiorAnalysis.jpg)
-![Market Analysis Dashboard](MarketAnalysis.jpg)
+![Competitor Analysis Dashboard](Images/CompetitiorAnalysis.jpg)
+![Market Analysis Dashboard](Images/MarketAnalysis.jpg)
 
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWVhY2EyNzItMmE1Ni00OTY1LTlkZmMtN2ZmZWIzMjI2ODA5IiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
 
@@ -31,8 +31,8 @@ PEDMONIE aims to solve these gaps with a more seamless, cost-effective, and AI-d
 This research is based on secondary data sources such as company websites, industry reports, and customer feedback.
 
 ### Data Sources
-- [Competitor Analysis Dataset](competitoranalysis.csv)
-- [Target Audience Dataset](targetaudience.csv)
+- [Competitor Analysis Dataset](Data/competitoranalysis.csv)
+- [Target Audience Dataset](Data/targetaudience.csv)
 - Company websites
 - Industry reports
 - Customer feedback platforms
